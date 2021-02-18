@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.gappts.cn",
     "slug": "",
     "status": "up",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 980,
-    "timeDay": 980,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2021-02-18": 872
+      "2021-02-18": 881
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 980,
-    "timeDay": 980,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2021-02-18": 873
+      "2021-02-18": 881
     }
   },
   {
@@ -50,13 +50,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 980,
-    "timeDay": 980,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2021-02-18": 873
+      "2021-02-18": 881
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "39.39%",
-    "uptimeWeek": "91.34%",
-    "uptimeMonth": "98.01%",
+    "uptimeDay": "38.83%",
+    "uptimeWeek": "91.26%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "99.68%",
     "time": 0,
     "timeDay": 0,
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 873
+      "2021-02-18": 881
     }
   }
 ]
