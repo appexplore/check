@@ -10,13 +10,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 947,
-    "timeDay": 947,
-    "timeWeek": 947,
-    "timeMonth": 947,
-    "timeYear": 947,
+    "time": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2021-02-18": 1173
+      "2021-02-18": 1184
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 947,
-    "timeDay": 947,
-    "timeWeek": 947,
-    "timeMonth": 947,
-    "timeYear": 947,
+    "time": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2021-02-18": 1173
+      "2021-02-18": 1184
     }
   },
   {
@@ -50,13 +50,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 947,
-    "timeDay": 947,
-    "timeWeek": 947,
-    "timeMonth": 947,
-    "timeYear": 947,
+    "time": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2021-02-18": 1173
+      "2021-02-18": 1184
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 54,
-    "timeWeek": 54,
-    "timeMonth": 54,
-    "timeYear": 54,
+    "time": 51,
+    "timeDay": 51,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
     "dailyMinutesDown": {}
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "18.51%",
-    "uptimeWeek": "88.36%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.57%",
+    "uptimeDay": "17.77%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "99.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 1173
+      "2021-02-18": 1184
     }
   }
 ]
