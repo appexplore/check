@@ -10,13 +10,13 @@
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 979,
-    "timeDay": 979,
-    "timeWeek": 979,
-    "timeMonth": 979,
-    "timeYear": 979,
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2021-02-18": 327
+      "2021-02-18": 335
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 979,
-    "timeDay": 979,
-    "timeWeek": 979,
-    "timeMonth": 979,
-    "timeYear": 979,
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2021-02-18": 327
+      "2021-02-18": 335
     }
   },
   {
@@ -50,13 +50,13 @@
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 979,
-    "timeDay": 979,
-    "timeWeek": 979,
-    "timeMonth": 979,
-    "timeYear": 979,
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2021-02-18": 327
+      "2021-02-18": 335
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "77.32%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "76.74%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.88%",
     "time": 0,
     "timeDay": 0,
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 327
+      "2021-02-18": 335
     }
   }
 ]
