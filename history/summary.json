@@ -10,13 +10,13 @@
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 960,
-    "timeDay": 960,
-    "timeWeek": 960,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2021-02-18": 516
+      "2021-02-18": 549
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 960,
-    "timeDay": 960,
-    "timeWeek": 960,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2021-02-18": 516
+      "2021-02-18": 549
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.soukuzhan.com",
     "slug": "",
     "status": "up",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 960,
-    "timeDay": 960,
-    "timeWeek": 960,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2021-02-18": 516
+      "2021-02-18": 549
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "64.14%",
-    "uptimeWeek": "94.88%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.80%",
+    "uptimeDay": "61.86%",
+    "uptimeWeek": "94.55%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 516
+      "2021-02-18": 549
     }
   }
 ]
