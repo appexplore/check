@@ -10,13 +10,13 @@
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
-    "time": 967,
-    "timeDay": 967,
-    "timeWeek": 967,
-    "timeMonth": 967,
-    "timeYear": 967,
+    "time": 964,
+    "timeDay": 964,
+    "timeWeek": 964,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2021-02-18": 374
+      "2021-02-18": 388
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
-    "time": 967,
-    "timeDay": 967,
-    "timeWeek": 967,
-    "timeMonth": 967,
-    "timeYear": 967,
+    "time": 964,
+    "timeDay": 964,
+    "timeWeek": 964,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2021-02-18": 374
+      "2021-02-18": 388
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.soukuzhan.com",
     "slug": "",
     "status": "up",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 967,
-    "timeDay": 967,
-    "timeWeek": 967,
-    "timeMonth": 967,
-    "timeYear": 967,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 964,
+    "timeDay": 964,
+    "timeWeek": 964,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2021-02-18": 374
+      "2021-02-18": 388
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "74.03%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "73.02%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.86%",
     "time": 0,
     "timeDay": 0,
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 374
+      "2021-02-18": 389
     }
   }
 ]
