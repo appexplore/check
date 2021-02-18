@@ -1,15 +1,15 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: appexplore # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: 软件探索首页
+    url: https://www.gappts.cn
+  - name: 简约导航
+    url: https://www.jianavi.com
+  - name: 搜酷站
+    url: https://www.soukuzhan.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
