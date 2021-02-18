@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.gappts.cn",
     "slug": "",
     "status": "up",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 1015,
-    "timeDay": 1015,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 1006,
+    "timeDay": 1006,
+    "timeWeek": 1006,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2021-02-18": 202
+      "2021-02-18": 215
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.06%",
     "uptimeMonth": "0.06%",
     "uptimeYear": "0.06%",
-    "time": 1015,
-    "timeDay": 1015,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "time": 1006,
+    "timeDay": 1006,
+    "timeWeek": 1006,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2021-02-18": 202
+      "2021-02-18": 215
     }
   },
   {
@@ -50,13 +50,13 @@
     "uptimeWeek": "0.06%",
     "uptimeMonth": "0.06%",
     "uptimeYear": "0.06%",
-    "time": 1015,
-    "timeDay": 1015,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "time": 1006,
+    "timeDay": 1006,
+    "timeWeek": 1006,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2021-02-18": 202
+      "2021-02-18": 215
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "85.94%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "85.06%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 203
+      "2021-02-18": 215
     }
   }
 ]
