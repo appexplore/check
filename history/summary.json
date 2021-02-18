@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.gappts.cn",
     "slug": "",
     "status": "up",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
-    "time": 1162,
-    "timeDay": 1162,
-    "timeWeek": 1162,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 1129,
+    "timeDay": 1129,
+    "timeWeek": 1129,
+    "timeMonth": 1129,
+    "timeYear": 1129,
     "dailyMinutesDown": {
-      "2021-02-18": 79
+      "2021-02-18": 94
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/www.jianavi.com",
     "slug": "",
     "status": "up",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
-    "time": 1162,
-    "timeDay": 1162,
-    "timeWeek": 1162,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 1129,
+    "timeDay": 1129,
+    "timeWeek": 1129,
+    "timeMonth": 1129,
+    "timeYear": 1129,
     "dailyMinutesDown": {
-      "2021-02-18": 79
+      "2021-02-18": 94
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.soukuzhan.com",
     "slug": "",
     "status": "up",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 1162,
-    "timeDay": 1162,
-    "timeWeek": 1162,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 1129,
+    "timeDay": 1129,
+    "timeWeek": 1129,
+    "timeMonth": 1129,
+    "timeYear": 1129,
     "dailyMinutesDown": {
-      "2021-02-18": 79
+      "2021-02-18": 94
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 0,
     "timeDay": 0,
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 79
+      "2021-02-18": 94
     }
   }
 ]
