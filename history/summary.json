@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.gappts.cn",
     "slug": "",
     "status": "up",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 977,
-    "timeDay": 977,
-    "timeWeek": 977,
-    "timeMonth": 977,
-    "timeYear": 977,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 972,
+    "timeDay": 972,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {
-      "2021-02-18": 335
+      "2021-02-18": 354
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 977,
-    "timeDay": 977,
-    "timeWeek": 977,
-    "timeMonth": 977,
-    "timeYear": 977,
+    "time": 972,
+    "timeDay": 972,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {
-      "2021-02-18": 335
+      "2021-02-18": 354
     }
   },
   {
@@ -50,13 +50,13 @@
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 977,
-    "timeDay": 977,
-    "timeWeek": 977,
-    "timeMonth": 977,
-    "timeYear": 977,
+    "time": 972,
+    "timeDay": 972,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {
-      "2021-02-18": 335
+      "2021-02-18": 354
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "76.74%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.87%",
+    "uptimeDay": "75.40%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.87%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 335
+      "2021-02-18": 354
     }
   }
 ]
