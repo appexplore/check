@@ -16,7 +16,8 @@
     "timeMonth": 951,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2021-02-19": 1434,
+      "2021-02-20": 5,
+      "2021-02-19": 1440,
       "2021-02-18": 1239
     }
   },
@@ -26,18 +27,19 @@
     "icon": "https://favicons.githubusercontent.com/www.jianavi.com",
     "slug": "",
     "status": "up",
-    "uptime": "0.01%",
+    "uptime": "0.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 951,
     "timeDay": 947,
     "timeWeek": 951,
     "timeMonth": 951,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2021-02-19": 1434,
+      "2021-02-20": 5,
+      "2021-02-19": 1440,
       "2021-02-18": 1239
     }
   },
@@ -58,7 +60,8 @@
     "timeMonth": 951,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2021-02-19": 1434,
+      "2021-02-20": 5,
+      "2021-02-19": 1440,
       "2021-02-18": 1239
     }
   },
@@ -106,8 +109,8 @@
     "status": "down",
     "uptime": "99.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.48%",
-    "uptimeMonth": "93.90%",
+    "uptimeWeek": "73.37%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.04%",
     "time": 0,
     "timeDay": 0,
@@ -115,7 +118,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-19": 1434,
+      "2021-02-20": 5,
+      "2021-02-19": 1440,
       "2021-02-18": 1239
     }
   }
