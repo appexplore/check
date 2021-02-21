@@ -16,7 +16,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2021-02-21": 751,
+      "2021-02-21": 776,
       "2021-02-20": 1440,
       "2021-02-19": 1440,
       "2021-02-18": 1239
@@ -39,7 +39,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2021-02-21": 751,
+      "2021-02-21": 776,
       "2021-02-20": 1440,
       "2021-02-19": 1440,
       "2021-02-18": 1239
@@ -62,7 +62,7 @@
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2021-02-21": 751,
+      "2021-02-21": 776,
       "2021-02-20": 1440,
       "2021-02-19": 1440,
       "2021-02-18": 1239
@@ -110,18 +110,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "98.27%",
+    "uptime": "98.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.68%",
-    "uptimeMonth": "88.88%",
-    "uptimeYear": "98.27%",
+    "uptimeWeek": "51.44%",
+    "uptimeMonth": "88.83%",
+    "uptimeYear": "98.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 751,
+      "2021-02-21": 776,
       "2021-02-20": 1440,
       "2021-02-19": 1440,
       "2021-02-18": 1239
